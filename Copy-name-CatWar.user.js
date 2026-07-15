@@ -121,8 +121,6 @@
 
             };
 
-
-            // вставка после u, чтобы не было подчёркивания
             const underline = link.closest("u");
 
             if (underline) {
